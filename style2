@@ -20,10 +20,7 @@ h2{
  color: red;
  text-align:center;
  }
-h4{
-  color:blue;
-  text-align: center;
-  }
+
 
 p {
   font-family: verdana;
@@ -50,11 +47,11 @@ p{
 <h1>My First CSS Example</h1>
 <h2>My secon css exapmle</h>
 <h3>My third header</h3>
-<h4>4th header</h4>
 <p>This is a paragraph.</p>
 <p> This is a secon paragraph.</p>
 <p> This the the new paragarph number3.</p>
 <p>this the pg number 4</p>
+<p>this the paragraph number 5</p>
 
 </body>
 </html>
